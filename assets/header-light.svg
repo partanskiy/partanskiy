@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Ilya Partanskiy</title>
+  <desc id="desc">Anime, mathematics, programming.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#C7D9D1" stroke-opacity=".4"/>
+    </pattern>
+    <linearGradient id="background" x1="0" y1="0" x2="1280" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F6FAF8"/>
+      <stop offset="1" stop-color="#E6F1EB"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1278" height="318" rx="16" fill="url(#background)" stroke="#C4D6CD"/>
+  <rect x="1" y="1" width="1278" height="318" rx="16" fill="url(#grid)"/>
+  <path d="M64 52H112" stroke="#256551" stroke-width="3"/>
+  <text x="128" y="58" fill="#256551" font-family="ui-monospace, 'SFMono-Regular', Consolas, monospace" font-size="18" letter-spacing="2">partanskiy</text>
+  <text x="60" y="148" fill="#1B3430" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="64" font-weight="650" letter-spacing="-2">Ilya Partanskiy</text>
+  <text x="64" y="194" fill="#4D6860" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="23">Anime, mathematics, programming.</text>
+  <text x="64" y="268" fill="#256551" font-family="ui-monospace, 'SFMono-Regular', Consolas, monospace" font-size="16" letter-spacing="2">AND EVERYTHING AROUND THEM</text>
+  <g stroke="#93B5A6" stroke-width="1.5">
+    <path d="M854 88H918V160H982M854 232H918V160M1094 160H1216"/>
+    <rect x="774" y="64" width="80" height="48" rx="8" fill="#F3F8F5"/>
+    <rect x="774" y="208" width="80" height="48" rx="8" fill="#F3F8F5"/>
+    <rect x="982" y="124" width="112" height="72" rx="12" fill="#D6EADC" stroke="#256551"/>
+    <circle cx="1216" cy="160" r="5" fill="#256551" stroke="#256551"/>
+  </g>
+  <g fill="#4D6860" font-family="ui-monospace, 'SFMono-Regular', Consolas, monospace" font-size="15" text-anchor="middle">
+    <text x="814" y="94">anime</text>
+    <text x="814" y="238">math</text>
+    <text x="1038" y="166" fill="#256551">code</text>
+  </g>
+</svg>

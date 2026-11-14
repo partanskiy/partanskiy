@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="32" viewBox="0 0 100 32" role="img" aria-labelledby="title">
+  <title id="title">Steam</title>
+  <rect x=".5" y=".5" width="99" height="31" rx="6" fill="#1B273D" stroke="#4E6284"/>
+  <text x="50" y="21" text-anchor="middle" fill="#D3E0F7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="600">Steam</text>
+</svg>
